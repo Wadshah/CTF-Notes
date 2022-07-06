@@ -1,8 +1,8 @@
 ---
-description: Different Windows Priv Esc Methods
+Description: List of all the notes and walkthroughs of my CTFS
 ---
 
-# Windows Priv Esc
+# 
 
 ##
 
