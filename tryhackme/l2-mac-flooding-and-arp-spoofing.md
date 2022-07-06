@@ -33,9 +33,9 @@ Scanning internal hosts
 
 ![](https://cdn-images-1.medium.com/max/1000/1\*G1fWa3\_K-jP2iz-4hK4NfQ.png)
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 #### Passive Network Sniffing
 
