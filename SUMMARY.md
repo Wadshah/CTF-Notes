@@ -1,7 +1,11 @@
 # Table of contents
 
-* [Windows Priv Esc](README.md)
+* [Linux Priv Esc](README.md)
+  * [Cap\_setuid](linux-priv-esc/cap\_setuid.md)
+  * [Docker](linux-priv-esc/docker.md)
+* [Windows Priv Esc](<README (1).md>)
   * [AlwaysInstallElevated](windows-priv-esc/alwaysinstallelevated.md)
+  * [SeImpersonatePrivilege](readme/seimpersonateprivilege.md)
 * [TryHackMe](tryhackme/README.md)
   * [L2 MAC Flooding & ARP Spoofing](tryhackme/l2-mac-flooding-and-arp-spoofing.md)
 * [HTB](htb/README.md)

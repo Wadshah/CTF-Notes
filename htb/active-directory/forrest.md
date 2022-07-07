@@ -28,4 +28,4 @@ Using GetNPusers to get the hash for svc account
 
 ### Foothold
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
