@@ -1,9 +1,12 @@
 # Table of contents
 
-* [Linux Priv Esc](README.md)
+* [PG Practice](README.md)
+  * [Windows](pg-practice/windows/README.md)
+    * [Shenzi](pg-practice/windows/shenzi.md)
+* [Linux Priv Esc](<README (1).md>)
   * [Cap\_setuid](linux-priv-esc/cap\_setuid.md)
   * [Docker](linux-priv-esc/docker.md)
-* [Windows Priv Esc](<README (1).md>)
+* [Windows Priv Esc](<README (1) (1).md>)
   * [AlwaysInstallElevated](windows-priv-esc/alwaysinstallelevated.md)
   * [SeImpersonatePrivilege](readme/seimpersonateprivilege.md)
 * [TryHackMe](tryhackme/README.md)
