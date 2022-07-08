@@ -3,6 +3,7 @@
 * [PG Practice](README.md)
   * [Windows](pg-practice/windows/README.md)
     * [Shenzi](pg-practice/windows/shenzi.md)
+    * [Nickel](pg-practice/windows/nickel.md)
 * [Linux Priv Esc](<README (1).md>)
   * [Cap\_setuid](linux-priv-esc/cap\_setuid.md)
   * [Docker](linux-priv-esc/docker.md)
