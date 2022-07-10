@@ -7,7 +7,7 @@ Starting of with a Nmap scan
 Using dirb to enumerate directories&#x20;
 
 ![
-](<../../.gitbook/assets/image (7).png>)
+](<../../.gitbook/assets/image (7) (1).png>)
 
 The web directory site had rfi
 
@@ -21,7 +21,7 @@ Make 2 files on attacker machine
 
 
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 Place nc.exe in the same location where the other 2 files are present
 
@@ -37,7 +37,7 @@ Now we will run curl 2 times to fetch the 2 files
 
 After the second command hangs&#x20;
 
-![We have a shell](<../../.gitbook/assets/image (18).png>)
+![We have a shell](<../../.gitbook/assets/image (18) (1).png>)
 
 ### Priv Esc
 
@@ -45,7 +45,7 @@ I found a backup.txt file that was running as admin which can be identified usin
 
 `icacls`
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 It executes TFTP.exe every 5 minutes
 
@@ -53,11 +53,11 @@ We can create our own reverse shell using msfvenom
 
 and place it in backup folder
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 
 
 After some time it gets executed and we have admin shell
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (20) (1).png>)
 

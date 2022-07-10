@@ -10,7 +10,7 @@ description: https://app.hackthebox.com/machines/212
 
 RPC-client
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png>)
 
 We get a list of users through rpcclient
 
@@ -20,7 +20,7 @@ We get a list of users through rpcclient
 
 Using GetNPusers to get the hash for svc account
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 ### Cracking the hash
 
@@ -28,4 +28,4 @@ Using GetNPusers to get the hash for svc account
 
 ### Foothold
 
-![](<../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png>)
