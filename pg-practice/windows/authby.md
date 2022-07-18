@@ -22,7 +22,7 @@ After logging in I found .htpasswd file in the ftp
 
 We can crack the password using john
 
-![](<../../.gitbook/assets/image (24) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1).png>)
 
 Using the password for creds in the webpage
 
@@ -30,7 +30,7 @@ Using the password for creds in the webpage
 
 We can also use the ftp to put a reverse shell on the web page and get a rev shell back
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 Navigating to the webpage the rev shell triggers
 
@@ -42,7 +42,7 @@ Navigating to the webpage the rev shell triggers
 
 Using whoami /priv
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 SeImpersonatePriv is enabled
 
@@ -56,4 +56,4 @@ There is a great writeup explaining this
 
 {% embed url="https://medium.com/r3d-buck3t/impersonating-privileges-with-juicy-potato-e5896b20d505" %}
 
-![](<../../.gitbook/assets/image (32) (1).png>)
+![](<../../.gitbook/assets/image (32) (1) (1).png>)

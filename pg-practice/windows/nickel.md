@@ -14,7 +14,7 @@ Intercepting the commands using burp suite we can identify what's going on
 
 We could use burp to send a post request too but I made use of curl
 
-![](<../../.gitbook/assets/image (7) (1) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 
 
@@ -36,18 +36,18 @@ I transferred the file to my attacker machine using
 
 `The file was encrypted`
 
-![Cracked the password using pdfcrack](<../../.gitbook/assets/image (6) (1) (1).png>)
+![Cracked the password using pdfcrack](<../../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 ``
 
 Taking a look at the pdf
 
 ![
-](<../../.gitbook/assets/image (5) (1) (1).png>)
+](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 An internal service seems to be running as authority
 
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1).png>)
 
 
 

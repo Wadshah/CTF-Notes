@@ -2,11 +2,11 @@
 
 #### Starting of with a Nmap scan
 
-![](<../../.gitbook/assets/image (12) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 #### Checking for smbclient
 
-![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1) (1).png>)
 
 Doing guess work we can use this as a directory on the webpage
 
@@ -16,9 +16,9 @@ Doing guess work we can use this as a directory on the webpage
 
 ![](<../../.gitbook/assets/image (3) (1) (1) (2).png>)
 
-![](<../../.gitbook/assets/image (6) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1) (1) (1).png>)
 
 
 
@@ -52,7 +52,7 @@ Running winpeas on the target shows
 
 I made an exe using msfvenom
 
-![](<../../.gitbook/assets/image (13) (1).png>)
+![](<../../.gitbook/assets/image (13) (1) (1).png>)
 
 Got it on my shell and ran it with a lister listening
 
@@ -62,7 +62,7 @@ Got it on my shell and ran it with a lister listening
 
 And got an admin shell&#x20;
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 
 

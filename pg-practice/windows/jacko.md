@@ -2,7 +2,7 @@
 
 Starting of with NMap
 
-![](<../../.gitbook/assets/image (23) (1).png>)
+![](<../../.gitbook/assets/image (23) (1) (1).png>)
 
 Going to port 80 H2 Database is found
 
@@ -10,7 +10,7 @@ Going to port 80 H2 Database is found
 
 Searching for exploits
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 Following the steps from exploit database&#x20;
 
@@ -18,7 +18,7 @@ Following the steps from exploit database&#x20;
 
 I uploaded nc.exe and got back a rev shell
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 ### Priv Esc
 
@@ -32,7 +32,7 @@ Taking a look at files
 
 After reading the exploit a few changes were made
 
-![](<../../.gitbook/assets/image (19) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1).png>)
 
 Now we can generate a dll file using msfvenom
 
@@ -42,10 +42,10 @@ Uploading the dll and exploit on the shell&#x20;
 
 and then executing it with a listener listening&#x20;
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (17) (1).png>)
 
-![](<../../.gitbook/assets/image (22) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1).png>)
 
 I receive a admin shell

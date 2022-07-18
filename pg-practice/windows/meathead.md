@@ -2,17 +2,17 @@
 
 Starting of with an NMap scan
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (33) (1).png>)
 
 Found a few files on ftp
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22) (1).png>)
 
 Cracked the MYSQL\_BAK file using john
 
 ![](<../../.gitbook/assets/image (21).png>)
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 Using the creds to open the file&#x20;
 
@@ -30,15 +30,15 @@ Started a smb server hosting nc.exe
 
 &#x20;
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 and on the limited shell ran
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (34) (1).png>)
 
 It fetches the exe from our server on ehich nc.exe is hosted
 
-![Now we have a proper shell](<../../.gitbook/assets/image (32).png>)
+![Now we have a proper shell](<../../.gitbook/assets/image (32) (1).png>)
 
 
 
@@ -52,4 +52,4 @@ It shows SeImpersonatePriv is enabled
 
 We can use PrintSpoofer.exe to get admin access
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
