@@ -1,6 +1,7 @@
 # Table of contents
 
-* [PG Practice](README.md)
+* [Notes](README.md)
+* [PG Practice](<README (2).md>)
   * [Windows](pg-practice/windows/README.md)
     * [Shenzi](pg-practice/windows/shenzi.md)
     * [Nickel](pg-practice/windows/nickel.md)
